@@ -1,2 +1,3 @@
 Yeni Satır
 ozellik1 eklendi
+Bu bir özellik dalında yapılan değişikliktir.
